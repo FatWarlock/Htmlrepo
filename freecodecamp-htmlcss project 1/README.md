@@ -1,2 +1,0 @@
-# Htmlrepo
-freecodecamp-htmlcss
