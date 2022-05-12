@@ -114,6 +114,7 @@ code {
     }
     #main-doc {
         margin-left: -12px;
+        top: 300px;
     }
     .code {
         margin-left: -20px;
